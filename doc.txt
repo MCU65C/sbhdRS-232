@@ -1,3 +1,5 @@
+sbhdRS-232 uses the RS-232 library from Teunis van Beelen, much to Teunis!
+original doc for the library follows....
 
 Library: RS-232
 Author:  Teunis van Beelen
