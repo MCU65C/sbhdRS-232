@@ -1,7 +1,7 @@
 /*
 ***************************************************************************
 *
-* Author: Teunis van Beelen
+* Library Author: Teunis van Beelen
 *
 * Copyright (C) 2005 - 2023 Teunis van Beelen
 *
