@@ -1,5 +1,5 @@
 #
-# author: Tom Linebaugh         email: tlineba@aim.com
+# author: MCU65C         email: mcu65c@outlook.com
 #
 
 CC = gcc
