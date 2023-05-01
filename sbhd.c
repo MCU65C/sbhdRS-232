@@ -1,4 +1,7 @@
 /**************************************************
+
+Author: MCU65C         Email: mcu65c@outlook.com
+
 file: sbhd.c    (serial bytes hexadecimal dump)
 purpose: a tool to print analyse all bytes received on a serial port, especially
          those bytes not representing printable string characters, exit the program by pressing Ctrl-C
